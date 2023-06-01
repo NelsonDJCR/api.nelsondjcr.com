@@ -4,6 +4,7 @@
         "name": "Mazter",
         "description": "Portfolio",
         "url":"https://mazter.dev/",
+        "img":"",
         "state":1
     },
     {
@@ -11,6 +12,7 @@
         "name": "Fundación Huellas de Bienestar",
         "description": "ONG",
         "url":"http://fundacionhuellasdebienestar.org/",
+        "img":"",
         "state":1
     },
     {
@@ -18,6 +20,7 @@
         "name": "Hard Store",
         "description": "e-Commerce",
         "url":"https://hard-store.com.co/",
+        "img":"",
         "state":1
     },
     {
@@ -25,6 +28,7 @@
         "name": "Dayro Pinilla",
         "description": "Portfolio",
         "url":"https://dayropinilla.com/",
+        "img":"",
         "state":1
     },
     {
@@ -32,6 +36,7 @@
         "name": "Sex House",
         "description": "",
         "url":"",
+        "img":"",
         "state":1
     },
     {
@@ -39,6 +44,7 @@
         "name": "Ehimy Lozano",
         "description": "Portfolio",
         "url":"",
+        "img":"",
         "state":0
     },
     {
@@ -46,6 +52,7 @@
         "name": "Logia",
         "description": "Portfolio",
         "url":"http://www.logia.com.co/",
+        "img":"",
         "state":0
     }
 ]
