@@ -54,5 +54,13 @@
         "url":"http://www.logia.com.co/",
         "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/logia.png",
         "state":0
+    },
+    {
+        "id": 8,
+        "name": "Elitours",
+        "description": "Travel",
+        "url":"http://www.elitours.com.co/",
+        "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/elitours.png",
+        "state":0
     }
 ]
