@@ -4,7 +4,7 @@
         "name": "Mazter",
         "description": "Portfolio",
         "url":"https://mazter.dev/",
-        "img":"",
+        "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/mazter.png",
         "state":1
     },
     {
@@ -12,7 +12,7 @@
         "name": "Fundación Huellas de Bienestar",
         "description": "ONG",
         "url":"http://fundacionhuellasdebienestar.org/",
-        "img":"",
+        "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/fhb.png",
         "state":1
     },
     {
@@ -20,7 +20,7 @@
         "name": "Hard Store",
         "description": "e-Commerce",
         "url":"https://hard-store.com.co/",
-        "img":"",
+        "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/hardstore.png",
         "state":1
     },
     {
@@ -28,23 +28,23 @@
         "name": "Dayro Pinilla",
         "description": "Portfolio",
         "url":"https://dayropinilla.com/",
-        "img":"",
+        "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/dayropinilla.png",
         "state":1
     },
     {
         "id": 5,
         "name": "Sex House",
-        "description": "",
-        "url":"",
-        "img":"",
+        "description": "Sex Shop",
+        "url":"https://sexhouse.com.co/",
+        "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/sexhouse.png",
         "state":1
     },
     {
         "id": 6,
         "name": "Ehimy Lozano",
         "description": "Portfolio",
-        "url":"",
-        "img":"",
+        "url":"https://ehimylozano.com/",
+        "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/ehimylozano.png",
         "state":0
     },
     {
@@ -52,7 +52,7 @@
         "name": "Logia",
         "description": "Portfolio",
         "url":"http://www.logia.com.co/",
-        "img":"",
+        "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/logia.png",
         "state":0
     }
 ]
