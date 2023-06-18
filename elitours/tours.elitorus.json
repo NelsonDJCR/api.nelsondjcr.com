@@ -14,11 +14,11 @@
             "3": "Tour guide (English or Spanish)"
         },
         "prices": {
-            "0": "75 USD ONE PERSON",
-            "1": "95 USD TWO PERSON",
-            "2": "115 USD THREE PERSON",
-            "3": "130 USD  FOUR PERSON",
-            "4": "35 USD EXTRA PERSON"
+            "1": "75",
+            "2": "95",
+            "3": "115",
+            "4": "130",
+            "extra": "35"
         },
         "pictures": {
             "0": "https://images.pexels.com/photos/8264573/pexels-photo-8264573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -46,7 +46,7 @@
         "prices": {
             "0": "30 USD - 1 Person",
             "1": "50 USD - 2 Person",
-            "2": "10 USD - Extra person"
+            "extra": "10 USD - Extra person"
         },
         "pictures": {}
     },
