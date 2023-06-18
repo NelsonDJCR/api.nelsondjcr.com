@@ -1,0 +1,2 @@
+GET: 
+    const url = https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/tours.elitorus.json
