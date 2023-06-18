@@ -5,7 +5,7 @@
         "note":"",
         "description": "Bogotá is considered the capital of Colombia, but in this case you will to learn about our general history and the most important places we have here. We going to start in the our popular hill Monserrat and we going to finish with a cup of chucula in La Candelaria neighborhood.",
         "duration":"8 hours",
-        "image":"https://images.pexels.com/photos/13783723/pexels-photo-13783723.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image":"https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/Full City Tour.jpeg",
         "included": {
             "0": "Tickets  to Monserrat hill",
             "1": "Tickets to Gold Museum",
@@ -27,7 +27,7 @@
         "note":"",
         "description": "Would you like to prepared a typical dish?, we have perfect option for learn about our traditional dishes in Colombia and somethings  options are Ajiaco, Bandeja Paisa, Patacon with ahogado, and more Colombians dishes.",
         "duration":"3 hours",
-        "image":"https://mui.kitchen/__export/1680288085262/sites/muikitchen/img/2023/03/31/13_a.jpg_1800405350.jpg",
+        "image":"https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/Cooking class.jpeg",
         "included": {
             "0": "Ingredients",
             "1": "Lunch",
@@ -48,7 +48,7 @@
         "note":"available only Friday and Saturday",
         "description": "This new tour is for find a new and nice spot in our Bogotá, we going to visit the most important high building in our Bogotá,Mambo museum and also we going to visit different places in our Candelaria and at the end we can finish with craft beer or Agua de Panela with Cheese.",
         "duration":"5 - 6 hours",
-        "image":"https://images.pexels.com/photos/13374147/pexels-photo-13374147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image":"https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/Afternoon Tour.jpeg",
         "included": {
             "0": "Highest tower in Bogotá",
             "1": "Tour in Candelaria Neighborhood",
@@ -70,7 +70,7 @@
         "note":"https://images.pexels.com/photos/2128028/pexels-photo-2128028.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "description": "You will discovery three different districts in our Bogotá with a lot of stops during the tour. We going to learn about the Colombia’s history, social situations, economic, gastronomy and many topics.",
         "duration":"4-5 hours",
-        "image":"",
+        "image":"https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/Bike Tour.jpeg",
         "included": {
             "0": "Helmet",
             "1": "Bike",
@@ -90,7 +90,7 @@
         "note":"",
         "description": "Now is the time to feel more fun in our Bogota and surrounding municipalities, imagine! It starts in the center of the city and crosses more than 3 municipalities such as La Calera, Sopo and Briceño.",
         "duration":"",
-        "image":"https://images.pexels.com/photos/2790148/pexels-photo-2790148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image":"https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/Bike Tour Sabana.jpeg",
         "included": {
             "0": "",
             "1": "",
@@ -108,12 +108,12 @@
         "pictures": {}
     },
     {
-        "short_name": "",
+        "short_name": "Salt Cathedral + Coffee",
         "name": "Zipaquira Salt Cathedral + Coffee Farm 9 hours (pendiente)",
         "note":"",
         "description": "Considered a the most important places to visit in our country and also a really nice experience in a coffee farm to learn the origin, process and quality coffee in Colombia. ",
         "duration":"",
-        "image":"https://www.eltiempo.com/files/image_640_428/uploads/2019/04/17/5cb757d0bfda7.jpeg",
+        "image":"https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/Salt Cathedral + Coffee.jpeg",
         "included": {
             "0": "",
             "1": "",
