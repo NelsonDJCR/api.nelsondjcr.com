@@ -1,0 +1,127 @@
+[
+    {
+        "short_name": "Full City Tour",
+        "name": "Full City Tour + Monserrat hill + Gold",
+        "note":"",
+        "description": "Bogotá is considered the capital of Colombia, but in this case you will to learn about our general history and the most important places we have here. We going to start in the our popular hill Monserrat and we going to finish with a cup of chucula in La Candelaria neighborhood.",
+        "duration":"8 hours",
+        "included": {
+            "0": "Tickets  to Monserrat hill",
+            "1": "Tickets to Gold Museum",
+            "2": "Traditional Snack",
+            "3": "Tour guide (English or Spanish)"
+        },
+        "prices": {
+            "0": "75 USD ONE PERSON",
+            "1": "95 USD TWO PERSON",
+            "2": "115 USD THREE PERSON",
+            "3": "130 USD  FOUR PERSON",
+            "4": "35 USD EXTRA PERSON"
+        },
+        "pictures": {}
+    },
+    {
+        "short_name": "Cooking class",
+        "name": "Cooking class",
+        "note":"",
+        "description": "Would you like to prepared a typical dish?, we have perfect option for learn about our traditional dishes in Colombia and somethings  options are Ajiaco, Bandeja Paisa, Patacon with ahogado, and more Colombians dishes.",
+        "duration":"3 hours",
+        "included": {
+            "0": "Ingredients",
+            "1": "Lunch",
+            "2": "Visit a market place (Concordia marketplace or other)",
+            "3": "Cup of coffee",
+            "4": "Local chef"
+        },
+        "prices": {
+            "0": "30 USD - 1 Person",
+            "1": "50 USD - 2 Person",
+            "2": "10 USD - Extra person"
+        },
+        "pictures": {}
+    },
+    {
+        "short_name": "Afternoon Tour",
+        "name": "Afternoon tour weekends",
+        "note":"available only Friday and Saturday",
+        "description": "This new tour is for find a new and nice spot in our Bogotá, we going to visit the most important high building in our Bogotá,Mambo museum and also we going to visit different places in our Candelaria and at the end we can finish with craft beer or Agua de Panela with Cheese.",
+        "duration":"5 - 6 hours",
+        "included": {
+            "0": "Highest tower in Bogotá",
+            "1": "Tour in Candelaria Neighborhood",
+            "2": "Traditional snack or drink (Beer or Canezalo)",
+            "3": "Tour guide in English or Spanish",
+            "4": "Tickets to Mambo museum"
+        },
+        "prices": {
+            "0": "80 USD ONE PERSON",
+            "1": "90 USD TWO PERSON",
+            "2": "115 USD THREE PERSON",
+            "3": "130 USD FOUR PERSON"
+        },
+        "pictures": {}
+    },
+    {
+        "short_name": "Bike Tour",
+        "name": "Bike Tour (15 km)",
+        "note":"",
+        "description": "You will discovery three different districts in our Bogotá with a lot of stops during the tour. We going to learn about the Colombia’s history, social situations, economic, gastronomy and many topics.",
+        "duration":"4-5 hours",
+        "included": {
+            "0": "Helmet",
+            "1": "Bike",
+            "2": "Tasty fruits",
+            "3": "Tour guide in English or Spanish"
+        },
+        "prices": {
+            "0": "20 usd one person",
+            "1": "35 usd two person",
+            "2": "35 usd two person"
+        },
+        "pictures": {}
+    },
+    {
+        "short_name": "Bike Tour Sabana",
+        "name": "Bike tour  Sabana de Bogotá 8-10 hours (almost 100 km)",
+        "note":"",
+        "description": "Now is the time to feel more fun in our Bogota and surrounding municipalities, imagine! It starts in the center of the city and crosses more than 3 municipalities such as La Calera, Sopo and Briceño.",
+        "duration":"",
+        "included": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "prices": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": ""
+        },
+        "pictures": {}
+    },
+    {
+        "short_name": "",
+        "name": "Zipaquira Salt Cathedral + Coffee Farm 9 hours (pendiente)",
+        "note":"",
+        "description": "Considered a the most important places to visit in our country and also a really nice experience in a coffee farm to learn the origin, process and quality coffee in Colombia. ",
+        "duration":"",
+        "included": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "prices": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": ""
+        },
+        "pictures": {}
+    }
+]
