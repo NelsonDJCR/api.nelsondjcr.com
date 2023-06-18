@@ -44,9 +44,9 @@
             "4": "Local chef"
         },
         "prices": {
-            "0": "30 USD - 1 Person",
-            "1": "50 USD - 2 Person",
-            "extra": "10 USD - Extra person"
+            "1": "30",
+            "2": "50",
+            "extra": "10"
         },
         "pictures": {}
     },
@@ -66,10 +66,11 @@
             "4": "Tickets to Mambo museum"
         },
         "prices": {
-            "0": "80 USD ONE PERSON",
-            "1": "90 USD TWO PERSON",
-            "2": "115 USD THREE PERSON",
-            "3": "130 USD FOUR PERSON"
+            "1": "80",
+            "2": "90",
+            "3": "115",
+            "4": "130",
+            "extra":"35"
         },
         "pictures": {}
     },
@@ -88,9 +89,9 @@
             "3": "Tour guide in English or Spanish"
         },
         "prices": {
-            "0": "20 usd one person",
-            "1": "35 usd two person",
-            "2": "35 usd two person"
+            "1": "20",
+            "2": "35",
+            "extra": "35"
         },
         "pictures": {}
     },
