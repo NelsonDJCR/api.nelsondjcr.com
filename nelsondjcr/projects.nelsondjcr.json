@@ -5,6 +5,7 @@
         "description": "Portfolio",
         "url":"https://mazter.dev/",
         "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/mazter.png",
+        "year":"2023",
         "state":1
     },
     {
@@ -13,6 +14,7 @@
         "description": "ONG",
         "url":"http://fundacionhuellasdebienestar.org/",
         "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/fhb.png",
+        "year":"2021",
         "state":1
     },
     {
@@ -21,6 +23,7 @@
         "description": "e-Commerce",
         "url":"https://hard-store.com.co/",
         "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/hardstore.png",
+        "year":"2022",
         "state":1
     },
     {
@@ -29,6 +32,7 @@
         "description": "Portfolio",
         "url":"https://dayropinilla.com/",
         "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/dayropinilla.png",
+        "year":"2023",
         "state":1
     },
     {
@@ -37,6 +41,7 @@
         "description": "Sex Shop",
         "url":"https://sexhouse.com.co/",
         "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/sexhouse.png",
+        "year":"2023",
         "state":1
     },
     {
@@ -45,6 +50,7 @@
         "description": "Portfolio",
         "url":"https://ehimylozano.com/",
         "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/ehimylozano.png",
+        "year":"2023",
         "state":0
     },
     {
@@ -53,6 +59,7 @@
         "description": "Portfolio",
         "url":"http://www.logia.com.co/",
         "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/logia.png",
+        "year":"2023",
         "state":0
     },
     {
@@ -61,6 +68,7 @@
         "description": "Travel",
         "url":"http://www.elitours.com.co/",
         "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/elitours.png",
+        "year":"2023",
         "state":0
     }
 ]
