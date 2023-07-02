@@ -1,0 +1,47 @@
+[
+    {
+        "id": 3,
+        "short_name": "Afternoon Tour",
+        "name": "Afternoon tour weekends",
+        "note": "available only Friday and Saturday",
+        "description": "This new tour is for find a new and nice spot in our Bogotá, we going to visit the most important high building in our Bogotá,Mambo museum and also we going to visit different places in our Candelaria and at the end we can finish with craft beer or Agua de Panela with Cheese.",
+        "duration": "5 - 6 hours",
+        "image": "https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/Afternoon Tour.jpeg",
+        "included": {
+            "0": "Highest tower in Bogotá",
+            "1": "Tour in Candelaria Neighborhood",
+            "2": "Traditional snack or drink (Beer or Canezalo)",
+            "3": "Tour guide in English or Spanish",
+            "4": "Tickets to Mambo museum"
+        },
+        "prices": {
+            "1": "90",
+            "2": "160",
+            "3": "240",
+            "4": "310",
+            "extra": "70"
+        },
+        "pictures": {}
+    },
+    {
+        "id": 4,
+        "short_name": "Bike Tour",
+        "name": "Bike Tour (15 km)",
+        "note": "https://images.pexels.com/photos/2128028/pexels-photo-2128028.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "You will discovery three different districts in our Bogotá with a lot of stops during the tour. We going to learn about the Colombia’s history, social situations, economic, gastronomy and many topics.",
+        "duration": "4-5 hours",
+        "image": "https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/Bike Tour.jpeg",
+        "included": {
+            "0": "Helmet",
+            "1": "Bike",
+            "2": "Tasty fruits",
+            "3": "Tour guide in English or Spanish"
+        },
+        "prices": {
+            "1": "20",
+            "2": "35",
+            "extra": "15"
+        },
+        "pictures": {}
+    }
+]
