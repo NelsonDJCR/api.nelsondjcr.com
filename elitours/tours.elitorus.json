@@ -14,11 +14,11 @@
             "3": "Tour guide (English or Spanish)"
         },
         "prices": {
-            "1": "75",
-            "2": "95",
-            "3": "115",
-            "4": "130",
-            "extra": "35"
+            "1": "90",
+            "2": "160",
+            "3": "240",
+            "4": "310",
+            "extra": "70"
         },
         "pictures": {
             "0": "https://images.pexels.com/photos/8264573/pexels-photo-8264573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
