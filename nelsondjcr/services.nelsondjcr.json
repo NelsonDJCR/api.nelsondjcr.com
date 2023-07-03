@@ -1,0 +1,157 @@
+[
+
+    {
+        "code" : 1001,
+        "name":"Portafolio web",
+        "description" : "Nuestro servicio de desarrollo de portafolios web ofrece la oportunidad de destacar tu trabajo y habilidades de manera visualmente atractiva y profesional en línea. Creamos sitios web personalizados y adaptados a tus necesidades, resaltando tu experiencia, proyectos y logros de manera efectiva. Impulsamos tu presencia en línea y te ayudamos a causar una impresión duradera en potenciales empleadores o clientes.",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1002,
+        "name":"banner de testimonios",
+        "description" : "nuestros clientes satisfechos hablan por sí mismos. Descubre lo que dicen sobre nuestra excelencia en servicio y resultados. Lee los testimonios y experiencias de aquellos que han confiado en nosotros para el desarrollo de sus proyectos. ¡Únete a nuestra lista de clientes satisfechos y descubre cómo podemos ayudarte a alcanzar tus metas",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1003,
+        "name":"sección sobre mi",
+        "description" : "Descubre quién soy y cómo puedo ayudarte. Compartiré mi pasión por el desarrollo web y mi enfoque en crear soluciones digitales efectivas y atractivas.",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1004,
+        "name":"sección experiencias",
+        "description" : "explora mi trayectoria profesional y los proyectos en los que he trabajado. Te mostraré ejemplos concretos de mi experiencia y logros anteriores",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1005,
+        "name":"sección habilidades",
+        "description" : "conoce las habilidades técnicas y creativas que poseo. Desde el diseño web hasta la programación, estaré encantado de aplicar mis conocimientos para hacer realidad tus ideas",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1006,
+        "name":"sección Servicios",
+        "description" : "descubre los servicios que ofrezco. Desde el desarrollo de sitios web personalizados hasta la optimización de la experiencia del usuario, te proporcionaré soluciones adaptadas a tus necesidades",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1007,
+        "name":"sección clientes",
+        "description" : "conoce a los clientes satisfechos que han confiado en mí. Te presentaré testimonios y casos de éxito que demuestran mi compromiso con la satisfacción del cliente y la calidad de mi trabajo",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1008,
+        "name":"banner de contacto",
+        "description" : "la sección de contacto es un servicio fundamental que ofrecemos para facilitar la comunicación directa entre sus clientes y nuestro cliente. En esta sección, proporcionamos la información necesaria para que puedas ponerte en contacto con tus clientes de manera rápida y sencilla.",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1009,
+        "name":"dominio personalizado",
+        "description" : "un dominio personalizado es una identidad única en línea que representa tu marca o tu presencia en Internet. Al adquirir un dominio personalizado, obtendrás una dirección web exclusiva y fácil de recordar, como 'tunombre.com'.",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1010,
+        "name":"correo corporativo",
+        "description" : "El correo corporativo personalizado te brinda una dirección de correo electrónico profesional con el nombre de tu empresa, fortaleciendo tu imagen de marca y transmitiendo confianza a tus clientes. Disfruta de mayor seguridad y gestión eficiente de tus correos electrónicos.",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1011,
+        "name":"chat en tiempo real",
+        "description" : "el chat en tiempo real es un servicio que te permite interactuar directamente con tus visitantes o clientes en tu sitio web. A través de una ventana de chat integrada, puedes brindar asistencia instantánea, resolver dudas y ofrecer un servicio personalizado en tiempo real para mejorar la experiencia del usuario y fomentar la satisfacción del cliente",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1012,
+        "name":"botón de whatsApp y messenger",
+        "description" : "el botón de WhatsApp y Messenger es una funcionalidad que te permite añadir en tu sitio web un acceso directo para que los usuarios puedan comunicarse contigo a través de estas aplicaciones de mensajería instantánea. Con solo un clic en el botón, los usuarios podrán iniciar una conversación contigo de manera rápida y sencilla, facilitando la interacción y brindando un canal de comunicación conveniente para resolver consultas, recibir asistencia o recibir información adicional",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1013,
+        "name":"desarrollo del Logo",
+        "description" : "El desarrollo del logo es un servicio que crea una identidad visual única para tu marca. Se trabajará en conjunto para conceptualizar y diseñar un logo personalizado que refleje los valores y la personalidad de tu negocio. Obtendrás un logo profesional y distintivo que te ayudará a destacar y generar reconocimiento de marca",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1014,
+        "name":"servidor de alojamiento + certificado ssh",
+        "description" : "el servicio de servidor de alojamiento te brinda un espacio en línea confiable y seguro para alojar tu sitio web, archivos y aplicaciones. Además, al contar con un certificado SSH, garantizas una conexión cifrada y segura entre tu servidor y los dispositivos remotos, protegiendo tu información sensible contra posibles amenazas. Esta combinación te permite tener un entorno de alojamiento confiable y protegido, asegurando la disponibilidad y seguridad de tu sitio web y datos",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1015,
+        "name":"estadisticas en tiempo real",
+        "description" : "Las estadísticas en tiempo real de visitantes ofrecen información actualizada y detallada sobre las visitas a tu sitio web. Podrás conocer en tiempo real el número de visitantes, las páginas que están viendo, su ubicación geográfica y otra información relevante. Esta herramienta te permite tomar decisiones informadas para mejorar la experiencia del usuario, optimizar tu sitio web y maximizar la efectividad de tus estrategias de marketing",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1016,
+        "name":"panel de conocimiento de google",
+        "description" : "el panel de conocimiento de Google es una característica que muestra información relevante sobre personas, lugares u otros temas directamente en los resultados de búsqueda.",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1017,
+        "name":"100% adaptable a dispositivos móviles",
+        "description" : "Nuestro servicio es 100% adaptable a dispositivos móviles, lo que significa que tu sitio web se verá y funcionará de manera óptima en cualquier dispositivo, ya sea un teléfono inteligente, una tableta u otros dispositivos móviles",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1018,
+        "name":"redacción de textos",
+        "description" : "contenido de calidad y adaptado a tus necesidades",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1019,
+        "name":"integración con redes sociales",
+        "description" : "te permite conectar tu sitio web con tus perfiles en plataformas como Facebook, Twitter, Instagram y más. Con esta integración, podrás compartir de manera automática contenido relevante de tu sitio web en tus redes sociales, ampliando así tu alcance y generando mayor visibilidad",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1020,
+        "name":"contenido 100% personalizable",
+        "description" : "nuestro servicio de contenido es totalmente personalizable, lo que significa que nos adaptamos a tus necesidades y requisitos específicos. Trabajaremos de cerca contigo para comprender tus objetivos, tu audiencia y el mensaje que deseas transmitir",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1021,
+        "name":"licencia de imágenes",
+        "description" : "nuestro servicio incluye la obtención de imágenes con licencia para su uso en tu sitio web u otros fines específicos",
+        "image" : "",
+        "state" : 1
+    },
+    {
+        "code" : 1022,
+        "name":"soporte un año",
+        "description" : "Nuestro servicio incluye un soporte completo de un año para garantizar que obtengas el máximo beneficio de nuestros productos o servicios. Durante este período, estaremos disponibles para responder tus preguntas, brindarte asistencia técnica y solucionar cualquier problema que puedas enfrentar",
+        "image" : "",
+        "state" : 1
+    }
+]
