@@ -154,4 +154,32 @@
         "image" : "",
         "state" : 1
     }
+    ,{
+        "code" : 1023,
+        "name":"Pasarela de pagos",
+        "description" : "Permitir diferentes metodos de pago",
+        "image" : "",
+        "state" : 1
+    }
+    ,{
+        "code" : 1024,
+        "name":"Registro de productos",
+        "description" : "Regisstra un limite de produtos",
+        "image" : "",
+        "state" : 1
+    }
+    ,{
+        "code" : 1025,
+        "name":"Desarrollo de landing Page",
+        "description" : "",
+        "image" : "",
+        "state" : 1
+    }
+    ,{
+        "code" : 1026,
+        "name":"Tienda virtual",
+        "description" : "",
+        "image" : "",
+        "state" : 1
+    }
 ]
