@@ -18,6 +18,15 @@
         "state":1
     },
     {
+        "id": 2,
+        "name": "NelsonDJCR",
+        "description": "Portfolio",
+        "url":"https://nelsondjcr.com/",
+        "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/nelsondjcr.png",
+        "year":"2021",
+        "state":1
+    },
+    {
         "id": 3,
         "name": "Hard Store",
         "description": "e-Commerce",
@@ -69,6 +78,6 @@
         "url":"http://www.elitours.com.co/",
         "img":"https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/elitours.png",
         "year":"2023",
-        "state":0
+        "state":1
     }
 ]
