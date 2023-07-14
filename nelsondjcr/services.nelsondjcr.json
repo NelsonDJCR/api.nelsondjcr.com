@@ -182,4 +182,18 @@
         "image" : "",
         "state" : 1
     }
+    ,{
+        "code" : 1027,
+        "name":"Migración del dominio",
+        "description" : "",
+        "image" : "",
+        "state" : 1
+    }
+    ,{
+        "code" : 1028,
+        "name":"QR por cada producto",
+        "description" : "",
+        "image" : "",
+        "state" : 1
+    }
 ]
