@@ -1,0 +1,2 @@
+GET: 
+    const url = https://nelsondjcr.github.io/api.nelsondjcr.com/luzari/services.luzari.json

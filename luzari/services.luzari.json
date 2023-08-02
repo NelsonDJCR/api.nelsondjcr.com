@@ -1,0 +1,254 @@
+[
+    {
+        "categorty":"Manos de seda",
+        "name":"Acrilico en uñas natural",
+        "price":"350",
+        "duration":"1h 30min",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Manos de seda",
+        "name":"Gelish",
+        "price":"300",
+        "duration":"1h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Manos de seda",
+        "name":"Manicura + gelish",
+        "price":"500",
+        "duration":"1h 30min",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Manos de seda",
+        "name":"Manicure spa",
+        "price":"400",
+        "duration":"1h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Manos de seda",
+        "name":"Paquete de Mani y Pedi spa",
+        "price":"500",
+        "duration":"2h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Manos de seda",
+        "name":"Paquete Mani y pedi spa + gelish",
+        "price":"700",
+        "duration":"2h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Manos de seda",
+        "name":"Pedicura + gelish",
+        "price":"500",
+        "duration":"1h 30min",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Manos de seda",
+        "name":"Pedicure spa",
+        "price":"400",
+        "duration":"1h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Manos de seda",
+        "name":"Retoque de uñas",
+        "price":"350",
+        "duration":"1h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Manos de seda",
+        "name":"Uñas acrílicas",
+        "price":"500",
+        "duration":"1h 30min",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Haircut",
+        "name":"Corte de dama incluye secado",
+        "price":"800",
+        "duration":"1h 30min",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Haircut",
+        "name":"Corte caballero",
+        "price":"500",
+        "duration":"1h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Hairstyle",
+        "name":"Make up + peinado recogido",
+        "price":"2100",
+        "duration":"2h 30min",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Hairstyle",
+        "name":"Make up + peinado suelto",
+        "price":"1900",
+        "duration":"2h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Hairstyle",
+        "name":"Make up profesional",
+        "price":"1400",
+        "duration":"1h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Hairstyle",
+        "name":"Paquete novias",
+        "price":"6000",
+        "duration":"4h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Hairstyle",
+        "name":"Peinado recogido",
+        "price":"800",
+        "duration":"1h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Hairstyle",
+        "name":"Peinado suelto",
+        "price":"600",
+        "duration":"1h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Hair Extensions",
+        "name":"Hair Extensions",
+        "price":"500",
+        "duration":"2h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Tratamientos Keratina",
+        "name":"Keratina Anti-Frizz",
+        "price":"3000",
+        "duration":"2h",
+        "capacity":"1",
+        "note":"Desde $3000 hasta $6000 *los precios varían de acuerdo a la cantidad y largo del pelo",
+        "state":1
+    },
+    {
+        "categorty":"Efectos de color",
+        "name":"Baby lights",
+        "price":"1900",
+        "duration":"2h",
+        "capacity":"1",
+        "note":"EL COSTO QUE APARECE ES EL MINIMO PARA EL PROCEDIMIENTO Y PUEDE AUMENTAR SEGÚN EL DIAGNOSTICO DE LA ESPECIALISTA. *EL TIEMPO DE DURACIÓN PUEDE AUMENTAR DE ACUERDO AL DIAGNOSTICO DE LA ESPECIALISTA.",
+        "state":1
+    },
+    {
+        "categorty":"Efectos de color",
+        "name":"Balayage",
+        "price":"100",
+        "duration":"2h",
+        "capacity":"1",
+        "note":"*EL COSTO QUE APARECE ES EL MINIMO PARA EL PROCEDIMIENTO Y PUEDE AUMENTAR SEGÚN EL DIAGNOSTICO DE LA ESPECIALISTA. *EL TIEMPO DE DURACIÓN PUEDE AUMENTAR DE ACUERDO AL DIAGNOSTICO DE LA ESPECIALISTA.",
+        "state":1
+    },
+    {
+        "categorty":"Efectos de color",
+        "name":"Californianos",
+        "price":"3500",
+        "duration":"",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Efectos de color",
+        "name":"Color global",
+        "price":"1500",
+        "duration":"2h",
+        "capacity":"1",
+        "note":"Los precios pueden variar dependiendo del diagnóstico.",
+        "state":1
+    },
+    {
+        "categorty":"Efectos de color",
+        "name":"Hombre",
+        "price":"2100",
+        "duration":"2h",
+        "capacity":"1",
+        "note":"Los precios pueden variar dependiendo del diagnóstico.",
+        "state":1
+    },
+    {
+        "categorty":"Efectos de color",
+        "name":"Luces",
+        "price":"2000",
+        "duration":"1h",
+        "capacity":"1",
+        "note":"Los precios pueden variar dependiendo del diagnóstico.",
+        "state":1
+    },
+    {
+        "categorty":"Efectos de color",
+        "name":"Money piece",
+        "price":"1400",
+        "duration":"2h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    },
+    {
+        "categorty":"Efectos de color",
+        "name":"Retoque de raíz",
+        "price":"1200",
+        "duration":"1h",
+        "capacity":"1",
+        "note":null,
+        "state":1
+    }
+]
