@@ -50,7 +50,12 @@
             "2": "50",
             "extra": "20"
         },
-        "pictures": {}
+        "pictures": {
+            "0": "https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/tours/IMG-2075.jpg",
+            "1": "https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/tours/IMG-2079.jpg",
+            "2": "https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/tours/IMG-2076-1.jpg",
+            "3": "https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/tours/IMG-2083.jpg"
+        }
     },
     {
         "id": 3,
@@ -140,12 +145,10 @@
             "3": ""
         },
         "prices": {
-            "0": "",
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": ""
+            "0": "https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/tours/IMG-20230531-135436877-HDR.jpg",
+            "1": "https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/tours/IMG-20230531-140425157.jpg",
+            "2": "https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/tours/IMG-20230531-141347993.jpg",
+            "3": "https://nelsondjcr.github.io/api.nelsondjcr.com/elitours/images/tours/Whats-App-Image-2023-06-04-at-3-32-51-PM.jpg"
         },
         "pictures": {}
     }
