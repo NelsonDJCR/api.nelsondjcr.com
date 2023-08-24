@@ -1,11 +1,62 @@
 [
     {
         "id": 1,
-        "name": "Hotel San Gabriel",
-        "description": "Sistema de Agenda de servicios hoteleros en Ambalema Tolima",
-        "url": "https://hotelsangabriel.com.co/",
-        "primary_img": "",
-        "year": "2023",
+        "name": "",
+        "description": "",
+        "primary_img": "https://nelsondjcr.github.io/api.nelsondjcr.com/sangabriel/images/rooms/",
+        "guest": "",
+        "price_night": "",
+        "images": {
+            "0": "https://nelsondjcr.github.io/api.nelsondjcr.com/sangabriel/images/rooms/"
+        },
+        "state": 1
+    },
+    {
+        "id": 2,
+        "name": "",
+        "description": "",
+        "primary_img": "https://nelsondjcr.github.io/api.nelsondjcr.com/sangabriel/images/rooms/",
+        "guest": "",
+        "price_night": "",
+        "images": {
+            "0": "https://nelsondjcr.github.io/api.nelsondjcr.com/sangabriel/images/rooms/"
+        },
+        "state": 1
+    },
+    {
+        "id": 3,
+        "name": "",
+        "description": "",
+        "primary_img": "https://nelsondjcr.github.io/api.nelsondjcr.com/sangabriel/images/rooms/",
+        "guest": "",
+        "price_night": "",
+        "images": {
+            "0": "https://nelsondjcr.github.io/api.nelsondjcr.com/sangabriel/images/rooms/"
+        },
+        "state": 1
+    },
+    {
+        "id": 4,
+        "name": "",
+        "description": "",
+        "primary_img": "https://nelsondjcr.github.io/api.nelsondjcr.com/sangabriel/images/rooms/",
+        "guest": "",
+        "price_night": "",
+        "images": {
+            "0": "https://nelsondjcr.github.io/api.nelsondjcr.com/sangabriel/images/rooms/"
+        },
+        "state": 1
+    },
+    {
+        "id": 5,
+        "name": "",
+        "description": "",
+        "primary_img": "https://nelsondjcr.github.io/api.nelsondjcr.com/sangabriel/images/rooms/",
+        "guest": "",
+        "price_night": "",
+        "images": {
+            "0": "https://nelsondjcr.github.io/api.nelsondjcr.com/sangabriel/images/rooms/"
+        },
         "state": 1
     }
 ]
