@@ -88,5 +88,14 @@
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/hotelsangabriel.png",
         "year": "2023",
         "state": 0
+    },
+    {
+        "id": 10,
+        "name": "Luzarí",
+        "description": "Sistema de gestión de servicios y reservas para una peluquería",
+        "url": "https://luzari.mx",
+        "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/luzari.mx.png",
+        "year": "2023",
+        "state": 0
     }
 ]
