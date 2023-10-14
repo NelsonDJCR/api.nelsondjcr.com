@@ -115,5 +115,14 @@
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/sportweart.com.png",
         "year": "2023",
         "state": 1
+    },
+    {
+        "id": 14,
+        "name": "American Dream Cars",
+        "description": "Venta de vehículos deportivos",
+        "url": "https://americandreamcars.es",
+        "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/americandreamcars.es.png",
+        "year": "2023",
+        "state": 1
     }
 ]
