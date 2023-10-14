@@ -6,6 +6,7 @@
         "url": "http://fundacionhuellasdebienestar.org/",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/fhb.png",
         "year": "2021",
+        "country":"Colombia",
         "state": 1
     },
     {
@@ -15,6 +16,7 @@
         "url": "https://hard-store.com.co/",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/hardstore.png",
         "year": "2022",
+        "country":"Colombia",
         "state": 1
     },
     {
@@ -24,6 +26,7 @@
         "url": "https://nelsondjcr.com/",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/nelsondjcr.png",
         "year": "2021",
+        "country":"Colombia",
         "state": 1
     },
     {
@@ -33,6 +36,7 @@
         "url": "https://mazter.dev/",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/mazter.png",
         "year": "2023",
+        "country":"Colombia",
         "state": 1
     },
     {
@@ -42,6 +46,7 @@
         "url": "http://www.logia.com.co/",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/logia.png",
         "year": "2023",
+        "country":"Colombia",
         "state": 0
     },
     {
@@ -51,6 +56,7 @@
         "url": "https://ehimylozano.com/",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/ehimylozano.png",
         "year": "2023",
+        "country":"Colombia",
         "state": 0
     },
     {
@@ -60,6 +66,7 @@
         "url": "https://dayropinilla.com/",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/dayropinilla.png",
         "year": "2023",
+        "country":"Colombia",
         "state": 1
     },
     {
@@ -69,6 +76,7 @@
         "url": "https://sexhouse.com.co/",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/sexhouse.png",
         "year": "2023",
+        "country":"Colombia",
         "state": 1
     },
     {
@@ -78,6 +86,7 @@
         "url": "http://www.elitours.com.co/",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/elitours.png",
         "year": "2023",
+        "country":"Colombia",
         "state": 1
     },
     {
@@ -87,6 +96,7 @@
         "url": "https://hotelsangabriel.com.co/",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/hotelsangabriel.png",
         "year": "2023",
+        "country":"Colombia",
         "state": 1
     },
     {
@@ -96,6 +106,7 @@
         "url": "https://luzari.mx",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/luzari.mx.png",
         "year": "2023",
+        "country":"México",
         "state": 0
     },
     {
@@ -105,6 +116,7 @@
         "url": "https://floreslesroses.com",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/floreslesroses.com.png",
         "year": "2023",
+        "country":"Colombia",
         "state": 1
     },
     {
@@ -114,6 +126,7 @@
         "url": "https://sportweart.com",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/sportweart.com.png",
         "year": "2023",
+        "country":"Colombia",
         "state": 1
     },
     {
@@ -123,6 +136,7 @@
         "url": "https://americandreamcars.es",
         "img": "https://nelsondjcr.github.io/api.nelsondjcr.com/nelsondjcr/images/americandreamcars.es.png",
         "year": "2023",
+        "country":"España",
         "state": 1
     }
 ]
