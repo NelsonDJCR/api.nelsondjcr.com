@@ -1,0 +1,110 @@
+{
+    "name_developer": "",
+    "title_developer": "",
+    "description_developer": "",
+    "experiences": {
+        "company": "",
+        "image": "",
+        "url_web_site": "",
+        "company_description": "",
+        "job_description": "",
+        "projects": [
+            {
+                "name": "",
+                "description": "",
+                "image": ""
+            }
+        ],
+        "start_date": 0,
+        "end_date": 0,
+        "tecnologies": {
+            "lenguaje_programing": [
+                ""
+            ],
+            "frameworks_and_libraries": [
+                ""
+            ],
+            "databases": [
+                ""
+            ],
+            "cloud": [
+                ""
+            ],
+            "version_control": [
+                ""
+            ],
+            "comunication_and_organitation": [
+                ""
+            ]
+        }
+    },
+    "links": [
+        {
+            "name": "",
+            "url": "",
+            "icon": ""
+        }
+    ],
+    "studies": [
+        {
+            "school": "",
+            "image": "",
+            "desceiption": "",
+            "start_date": "",
+            "end_date": ""
+        }
+    ],
+    "tecnologies": [
+        {
+            "lenguaje_programing": [
+                {
+                    "name": "",
+                    "icon": "",
+                    "learning_since": ""
+                }
+            ],
+            "frameworks_and_libraries": [
+                {
+                    "name": "",
+                    "icon": "",
+                    "learning_since": ""
+                }
+            ],
+            "databases": [
+                {
+                    "name": "",
+                    "icon": "",
+                    "learning_since": ""
+                }
+            ],
+            "cloud": [
+                {
+                    "name": "",
+                    "icon": "",
+                    "learning_since": ""
+                }
+            ],
+            "version_control": [
+                {
+                    "name": "",
+                    "icon": "",
+                    "learning_since": ""
+                }
+            ],
+            "comunication_and_organitation": [
+                {
+                    "name": "",
+                    "icon": "",
+                    "learning_since": ""
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "email": "",
+        "born": "",
+        "country": "",
+        "city": "",
+        "phone": ""
+    }
+}
