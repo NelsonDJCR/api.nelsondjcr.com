@@ -1,0 +1,24 @@
+{
+    "TITLE_DEVELOPER": "desarrollador FullStack",
+    "DESCRIPTION_DEVELOPER": "soy desarrollador PHP, Laravel, arquitectura patrón MVC, VUEJS, JavaScript, Jquery, POST/AJAX, gestor de bases de datosMySQL,mantenimiento y testing de aplicaciones web, maquetaciónweb,HTML, CSS, Bootstrap, gestión de datos JSON, desarrollodeaplicaciones móviles para Android e IOS escrito Angular &IonicFramework para clientes de la empresa y FreeLancer, desarrollodeaplicaciones web progresivas PWA, conexiones ssh, administracióndeservidores Linux y Amazon Web Services EC2 RDS.",
+    "EXPERIENCES": {
+        "OIGAME": {
+            "CHARGE": "analista de inteligencia de negocios",
+            "SALARY": 877000,
+            "COMPANY_DESCRIPTION": "optimización de productos, servicios y procesos mediante la implementación de herramientas tecnológicas personalizables",
+            "JOB_DESCRIPTION": "desarrollo de practicas empresariales"
+        },
+        "NYG": {
+            "CHARGE": "analista de inteligencia de negocios",
+            "SALARY": 877000,
+            "COMPANY_DESCRIPTION": "optimización de productos, servicios y procesos mediante la implementación de herramientas tecnológicas personalizables",
+            "JOB_DESCRIPTION": "desarrollo de practicas empresariales",
+            "PROJECTS":{
+                "SIGAD_DESCRIPTION":"Agilicé el proceso de búsqueda de reclutadores desarrollando una plataforma de búsqueda de empleo que funciona como bolsa de trabajo.",
+                "MONKEY_JOBS_DESCRIPTION":"Agilicé el proceso de búsqueda de reclutadores desarrollando una plataforma de búsqueda de empleo que funciona como bolsa de trabajo.",
+                "CNE_DESCRIPTION":"Optimicé el proceso de designación de las personas seleccionadas para los jurados de votación desarrollando una aplicación que funciona a nivel nacional para el gobierno de Colombia.",
+                "PROSEFAR_DESCRIPTION":"Se redujo la cantidad de errores mediante la creación de módulos y la actualización de una plataforma de salud que permite a los pacientes programar citas con los médicos."
+            }
+        }
+    }
+}

@@ -1,46 +1,119 @@
 {
-    "full_name": "",
-    "short_name": "",
-    "title_developer": "",
-    "description_developer": "",
-    "experiences": {
-        "company": "",
-        "charge":"",
-        "salary":"",
-        "image": "",
-        "url_web_site": "",
-        "company_description": "",
-        "job_description": "",
-        "projects": [
-            {
-                "name": "",
-                "description": "",
-                "image": ""
+    "full_name": "Nelson Javier Jiménez Torres",
+    "short_name": "Nelson Jiménez",
+    "title_developer": "title_developer",
+    "description_developer": "DESCRIPTION_DEVELOPER",
+    "experiences": [
+        {
+            "company": "NyG Soft",
+            "charge": "NYG.CHARGE",
+            "country": "colombia",
+            "currency": "cop",
+            "salary": 1400000,
+            "image": "nygsoft",
+            "url_web_site": "http://nygsoft.com/",
+            "company_description": "NYG.COMPANY_DESCRIPTION",
+            "job_description": "NYG.JOB_DESCRIPTION",
+            "projects": [
+                {
+                    "name": "SIGAD",
+                    "description": "SIGAD_DESCRIPTION",
+                    "image": "sigad"
+                },
+                {
+                    "name": "Monkey Jobs",
+                    "description": "MONKEY_JOBS_DESCRIPTION",
+                    "image": "monkey_jobs"
+                },
+                {
+                    "name": "Consejo Nacional de Colombia - CNE",
+                    "description": "CNE_DESCRIPTION",
+                    "image": "cne"
+                },
+                {
+                    "name": "PROSEFAR",
+                    "description": "PROSEFAR_DESCRIPTION",
+                    "image": "prosefar"
+                }
+            ],
+            "start_date": "10-02-2021",
+            "end_date": "17-O6-2021",
+            "tecnologies": {
+                "lenguaje_programing": [
+                    "php","javascript"
+                ],
+                "frameworks_and_libraries": [
+                    "vue","jquey","bootstrap"
+                ],
+                "databases": [
+                    "mysql"
+                ],
+                "cloud": false,
+                "version_control": [
+                    "git","bitbucket"
+                ],
+                "comunication_and_organitation": [
+                    "trello"
+                ]
             }
-        ],
-        "start_date": 0,
-        "end_date": 0,
-        "tecnologies": {
-            "lenguaje_programing": [
-                ""
+        },
+        {
+            "company": "oigame",
+            "country": "colombia",
+            "currency": "cop",
+            "charge": "OIGAME.CHARGE",
+            "salary": "OIGAME.SALARY",
+            "image": "",
+            "url_web_site": "",
+            "company_description": "OIGAME.COMPANY_DESCRIPTION",
+            "job_description": "JOIGAME.OB_DESCRIPTION",
+            "projects": false,
+            "start_date": "01-01-2020",
+            "end_date": "17-07-2020",
+            "tecnologies": false,
+            "state": 0
+        },
+        {
+            "company": "",
+            "charge": "",
+            "country": "",
+            "currency": "",
+            "salary": "",
+            "image": "",
+            "url_web_site": "",
+            "company_description": "",
+            "job_description": "J",
+            "projects": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": ""
+                }
             ],
-            "frameworks_and_libraries": [
-                ""
-            ],
-            "databases": [
-                ""
-            ],
-            "cloud": [
-                ""
-            ],
-            "version_control": [
-                ""
-            ],
-            "comunication_and_organitation": [
-                ""
-            ]
+            "start_date": 0,
+            "end_date": 0,
+            "tecnologies": {
+                "lenguaje_programing": [
+                    ""
+                ],
+                "frameworks_and_libraries": [
+                    ""
+                ],
+                "databases": [
+                    ""
+                ],
+                "cloud": [
+                    ""
+                ],
+                "version_control": [
+                    ""
+                ],
+                "comunication_and_organitation": [
+                    ""
+                ]
+            }
         }
-    },
+    ],
     "links": [
         {
             "name": "",
